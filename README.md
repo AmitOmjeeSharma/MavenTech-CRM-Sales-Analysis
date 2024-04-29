@@ -16,8 +16,10 @@ MavenTech CRM Sales Analysis is your go-to solution for unlocking actionable ins
 
 - **Interactive Dashboard**: [Explore our interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiODFkNWU3MzYtNGQ0OS00YzQ1LWI5NGItZjE2MmZkY2EzNjgwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) to see MavenTech CRM Sales Analysis in action.
   
-- **YouTube Video**: Watch the full presentation on MavenTech CRM Sales Analysis on [YouTube](#).
+- **YouTube Video**: Watch the full presentation on MavenTech CRM Sales Analysis on [YouTube](https://www.youtube.com/watch?v=tqFpZWV4DWo).
 
 - **LinkedIn Post**: Read our latest post on MavenTech CRM Sales Analysis on [LinkedIn](#).
 
+## Connect with Me
+- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/amit-sharma-294642251)
 
