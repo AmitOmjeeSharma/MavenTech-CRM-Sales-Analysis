@@ -18,7 +18,7 @@ MavenTech CRM Sales Analysis is your go-to solution for unlocking actionable ins
   
 - **YouTube Video**: Watch the full presentation on MavenTech CRM Sales Analysis on [YouTube](https://www.youtube.com/watch?v=tqFpZWV4DWo).
 
-- **LinkedIn Post**: Read our latest post on MavenTech CRM Sales Analysis on [LinkedIn](#).
+- **LinkedIn Post**: Read our latest post on MavenTech CRM Sales Analysis on [LinkedIn](https://www.linkedin.com/posts/amit-sharma-294642251_crm-salesanalysis-dataanalytics-activity-7190660864495017984-Nn0q?utm_source=share&utm_medium=member_desktop).
 
 ## Snaps 📸 
 
