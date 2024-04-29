@@ -20,6 +20,18 @@ MavenTech CRM Sales Analysis is your go-to solution for unlocking actionable ins
 
 - **LinkedIn Post**: Read our latest post on MavenTech CRM Sales Analysis on [LinkedIn](#).
 
+##Snap Shorts 
+
+![Cover](https://github.com/AmitOmjeeSharma/MavenTech-CRM-Sales-Analysis/assets/124283889/16e5b4a4-71c2-4335-9ae9-21d458394c73)
+
+![Screenshot 2024-04-28 205156](https://github.com/AmitOmjeeSharma/MavenTech-CRM-Sales-Analysis/assets/124283889/460920e7-85f1-4618-a7a6-92316b135a90)
+
+![Screenshot 2024-04-28 204723](https://github.com/AmitOmjeeSharma/MavenTech-CRM-Sales-Analysis/assets/124283889/464abac6-f549-49e5-b384-9042ac62d2d6)
+
+
+![Model view](https://github.com/AmitOmjeeSharma/MavenTech-CRM-Sales-Analysis/assets/124283889/bcfd6f01-8fc2-4542-98b4-68f7784c88de)
+
+
 ## Connect with Me
 - LinkedIn: [LinkedIn Profile](www.linkedin.com/in/amit-sharma-294642251)
 
